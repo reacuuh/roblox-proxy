@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rewrites": [
+<<<<<<< HEAD
+    { "source": "/(.*)", "destination": "/api/index.js" }
+=======
+    { "source": "/(.*)", "destination": "/api" }
+>>>>>>> 98f24b2 (Initial commit)
+  ]
+}
+
